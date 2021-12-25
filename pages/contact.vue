@@ -3,7 +3,7 @@
     <site-hero
       title="Contact Us"
       subtitle="Example Contact Page"
-      image="/uploads/contact-hero.jpg"
+      image="/uploads/home-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>

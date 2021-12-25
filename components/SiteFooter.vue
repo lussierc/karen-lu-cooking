@@ -4,9 +4,9 @@
     Rights Reserved
     <br />
     <br />
-    Maintained by
-    <a href="https://www.christianlussier.com">Christian Lussier</a>. Made with
-    Nuxt.js and Netlify.
+
+    <a href="https://www.christianlussier.com">Site Maintainer Information</a>.
+    Made with Nuxt.js and Netlify.
   </footer>
 </template>
 

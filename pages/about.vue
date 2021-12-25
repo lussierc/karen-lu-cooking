@@ -3,85 +3,21 @@
     <site-hero
       title="About Karen's Home Cooking"
       subtitle="Learn more about Karen!"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/home-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Welcome to my Cookbook!</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              This online cookbook contains family favorite recipes!
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Over the years I have saved up a lot of recipes and needed a place
+            to store them, hence the creation of this online cookbook!
           </p>
-
-          <h3>Another Fake Heading</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
-          <quote-card />
-          <h3>Still More Fake Content</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
-          </p>
-        </div>
-
-        <div class="tile is-ancestor">
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Cool Stuff We Do
-              </p>
-              <p class="subtitle">
-                Sooo Cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Other Cool Things
-              </p>
-              <p class="subtitle">
-                Just as cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                All the cool
-              </p>
-              <p class="subtitle">
-                that is all
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
         </div>
       </template>
 
@@ -95,13 +31,11 @@
   </div>
 </template>
 <script>
-import QuoteCard from '~/components/cards/QuoteCard'
 export default {
   head() {
     return {
       title: `About | ${this.$siteConfig.siteName}`
     }
-  },
-  components: { QuoteCard }
+  }
 }
 </script>
