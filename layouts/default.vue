@@ -6,7 +6,7 @@
   >
     <site-nav />
     <nuxt />
-    <news-letter-slide-out v-if="$siteConfig.newsletter.on" />
+    <news-letter-slide-out v-if="$siteConfig.newsletter.off" />
     <site-footer></site-footer>
   </div>
 </template>

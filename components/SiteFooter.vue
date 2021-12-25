@@ -3,8 +3,10 @@
     {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - All
     Rights Reserved
     <br />
-    Made with <span style="color: #e25555;">&#9829;</span> with Nuxt.js and
-    Netlify
+    <br />
+    Maintained by
+    <a href="https://www.christianlussier.com">Christian Lussier</a>. Made with
+    Nuxt.js and Netlify.
   </footer>
 </template>
 
