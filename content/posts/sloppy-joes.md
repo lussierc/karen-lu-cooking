@@ -1,6 +1,6 @@
 ---
 title: Sloppy Joes
-subtitle: Sandwhich
+subtitle: A family friendly sandwich! A classic!
 category:
   - Main Dishes
 author: Karen
