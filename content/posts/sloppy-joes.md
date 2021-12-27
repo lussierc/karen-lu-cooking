@@ -11,24 +11,18 @@ featureImage: /uploads/60461ad9-272d-4bc2-9f46-520f74dc3c1b.jpeg
 
 ## Ingredients:
 
-1 lb ground beef
+* 1 lb ground beef
+* 1 small onion, diced
+* 1 stalk celery, diced
 
-1 small onion, diced
+#### Sauce Ingredients:
 
-1 stalk celery, diced
+* 3/4 cup ketchup
+* 2 tablespoons brown sugar
+* 2 teaspoons yellow mustard 
+* 1/2 to 1 teaspoons garlic powder 
+* salt & pepper to taste
 
-Sauce:
-
-3/4 cup ketchup
-
-2 tablespoons brown sugar
-
-2 teaspoons yellow mustard 
-
-1/2 to 1 teaspoons garlic powder 
-
-salt & pepper to taste
-
-Directions:
+## Directions:
 
 Brown ground beef until cooked through. Drain excess fat. Combine all sauce ingredient and add to ground beef.  Bring to a simmer and heat through for 15 minutes.
