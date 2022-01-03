@@ -1,9 +1,9 @@
 ---
 title: Chicken Marinade that Everybody Likes
-subtitle: Yum
+subtitle: Yummy
 category:
   - Main Dishes
-author: Karen Lussier
+author: Karen
 date: 2022-01-03T01:36:45.290Z
 featureImage: /uploads/14a2553f-4618-42ed-a503-4c65c24d5c1e.jpeg
 ---
