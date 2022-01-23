@@ -41,4 +41,4 @@ Directions:
 
 2. For each serving put desired amount of pasta and then add soup. Top with lots of cheese
 
-Great with salad and Italian Cheese Bread (find recipe in side dishes)
+Great with salad and Italian Cheese Bread (find recipe in Breads)
