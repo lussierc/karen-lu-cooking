@@ -5,7 +5,7 @@ category:
   - Breakfast
 author: Christian L.
 date: 2021-12-25T05:41:50.922Z
-featureImage: /uploads/omelette-stock-image.jpg
+featureImage: /uploads/c71923ca-b170-4d9a-91be-0accbbe79b05.jpeg
 ---
 ## The Perfect Omelette:
 
