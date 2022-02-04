@@ -11,7 +11,7 @@ featureImage: /uploads/290b54c3-ffbc-4394-9c30-0f6f69759ba3.jpeg
 
 **Ingredients**
 
-* **1 can black beans, rinsed and drained**
+* 1 can black beans, rinsed and drained
 * 1 can diced tomatoes and green chilies, undrained
 * 1 cup frozen corn ( or 1 can of corn well drained)
 * 1 cup cooked rice 
