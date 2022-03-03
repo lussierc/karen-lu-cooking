@@ -5,7 +5,7 @@ category:
   - Main Dishes
 author: Karen Lu
 date: 2022-03-02T00:42:06.515Z
-featureImage: /uploads/1553bf34-fca6-4abd-bc46-57b298176ca1.jpeg
+featureImage: /uploads/15b39c11-eb07-4381-a70c-d87085c91ab2.jpeg
 ---
 # Creamy Tortellini Soup
 
