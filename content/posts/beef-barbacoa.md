@@ -1,6 +1,6 @@
 ---
 title: Beef Barbacoa
-subtitle: It’s amazing
+subtitle: Can be served many ways.
 category:
   - Main Dishes
 author: Karen L.
