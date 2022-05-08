@@ -5,7 +5,7 @@ category:
   - Main Dishes
 author: Karen
 date: 2022-01-03T01:36:45.290Z
-featureImage: /uploads/3c69754d-b8df-4240-b476-a8ffca345988.jpeg
+featureImage: /uploads/1de0e9d7-d633-41e6-b818-713c19d3ea59.jpeg
 ---
 **Ingredients:**
 
