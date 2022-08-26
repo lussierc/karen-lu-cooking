@@ -21,7 +21,7 @@ featureImage: /uploads/db339f9a-c141-4c35-a5c1-b37dd3bbef2a.jpeg
 * 1 teaspoon ground cumin
 * ½ cup salsa
 * salt & pepper to taste
-* any toppings such as lettuce, avocado, onion, sour cream, etc. you like
+* any toppings such as cilantro, lettuce, avocado, onion, sour cream, etc. you like
 
 *Directions:*
 
