@@ -5,7 +5,7 @@ category:
   - Main Dishes
 author: Karen Lu
 date: 2022-07-29T01:07:22.559Z
-featureImage: /uploads/806b6cab-62ca-4543-beba-4f3bf7a4caf0.jpeg
+featureImage: /uploads/e99ec179-a41b-4dba-b442-45da08f3ae65.jpeg
 ---
 # Ramen Noodle Stir Fry
 
