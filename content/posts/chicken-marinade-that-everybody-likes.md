@@ -25,10 +25,8 @@ featureImage: /uploads/1de0e9d7-d633-41e6-b818-713c19d3ea59.jpeg
 
 2-3 pounds boneless skinless chicken breasts- even sized thickness
 
- 
-
 **Directions**:
 
-Combine all ingredients in food processor/blender except for chicken.  Pour over chicken and refrigerate for at least 2 hours or can be frozen in marinade.
+Combine all ingredients in food processor/blender except for chicken. Pour over chicken and refrigerate for at least 2 hours or can be frozen in marinade.
 
 ​
