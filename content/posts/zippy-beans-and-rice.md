@@ -1,6 +1,6 @@
 ---
 title: Zippy Beans and Rice
-subtitle: A filling side dish great with Mexican food
+subtitle: A cheap, filling side dish great with Mexican food. Great for meal-prep!
 category:
   - Side Dishes
 author: Karen Lu
