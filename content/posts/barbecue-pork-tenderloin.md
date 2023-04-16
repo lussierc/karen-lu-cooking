@@ -5,7 +5,7 @@ category:
   - Main Dishes
 author: Karen Lu
 date: 2023-04-11T19:49:54.684Z
-featureImage: /uploads/image.jpeg
+featureImage: /uploads/79f1ab1b-710c-4578-a1fa-12f8185f55b9.jpeg
 ---
 # Barbecue Pork Tenderloin
 
