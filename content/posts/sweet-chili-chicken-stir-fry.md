@@ -5,7 +5,7 @@ category:
   - Main Dishes
 author: Karen Lu
 date: 2022-02-10T01:30:17.017Z
-featureImage: /uploads/518ce6e4-c5f9-4bf3-a0ab-3f82f8b25a1f.jpeg
+featureImage: /uploads/79f1ab1b-710c-4578-a1fa-12f8185f55b9.jpeg
 ---
 # Sweet Chili Chicken Stir Fry
 
