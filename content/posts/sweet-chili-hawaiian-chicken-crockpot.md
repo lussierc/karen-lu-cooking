@@ -2,7 +2,7 @@
 title: "Sweet Chili Hawaiian Chicken Crockpot "
 subtitle: Sweet heat - serve with rice for a complete meal
 category:
-  - Meal Prep Ideas!
+  - Main Dishes
 author: Karen Lu
 date: 2023-04-16T23:25:59.566Z
 featureImage: /uploads/f05983fb-4842-4125-9c8d-f2657c758100.jpeg
