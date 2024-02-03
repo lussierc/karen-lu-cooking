@@ -5,7 +5,7 @@ category:
   - Main Dishes
 author: Karen Lu
 date: 2022-10-30T17:15:42.906Z
-featureImage: /uploads/89839723-eb57-479d-a723-c793655eeede.jpeg
+featureImage: /uploads/img_2253.jpeg
 ---
 # Easy Minestrone Soup
 
