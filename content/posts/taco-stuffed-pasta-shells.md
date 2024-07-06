@@ -9,6 +9,8 @@ featureImage: /uploads/4036aace-5d70-4e3f-84e4-d2c26e393be6.jpeg
 ---
 # Taco Stuffed Pasta Shells
 
+*Note: An alternative is to use a scant 1 lb box of a pasta like shells or penne and combine the pasta with the meat mixture as opposed to stuffing the individual shells. Add a little extra salsa if the mixture seems too dry.*  \
+\
 *Ingredients:*
 
 * *2 lbs. ground beef*
