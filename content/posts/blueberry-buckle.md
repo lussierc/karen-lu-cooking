@@ -11,7 +11,7 @@ featureImage: /uploads/img_2595.jpeg
 
 *Ingredients*
 
-* 2 heaping *cups blueberries* 
+* 2 heaping cups blueberries 
 * 1 1/2 TB lemon juice
 * 3/4 cup sugar
 * 3 TB butter, softened 
