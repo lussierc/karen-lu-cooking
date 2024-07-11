@@ -5,7 +5,7 @@ category:
   - Desserts
 author: Karen Lu
 date: 2024-07-10T14:57:40.612Z
-featureImage: /uploads/79f1ab1b-710c-4578-a1fa-12f8185f55b9.jpeg
+featureImage: /uploads/img_2595.jpeg
 ---
 # Blueberry Buckle
 
