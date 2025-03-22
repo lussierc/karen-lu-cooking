@@ -3,6 +3,7 @@ title: Peanut Butter Oatmeal Chocolate Chip Cookies
 subtitle: Gluten and dairy free
 category:
   - Gluten Free
+  - Desserts
 author: Karen Lu
 date: 2025-03-22T23:43:29.177Z
 featureImage: /uploads/img_3129.jpeg
