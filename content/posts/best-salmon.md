@@ -5,7 +5,7 @@ category:
   - Main Dishes
 author: Karen Lu
 date: 2024-08-18T23:25:34.385Z
-featureImage: /uploads/img_2676.jpeg
+featureImage: /uploads/img_2997.jpeg
 ---
 # Best Salmon
 
