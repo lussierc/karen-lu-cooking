@@ -3,6 +3,7 @@ title: "Air Fryer Potatoes "
 subtitle: Quick and easy side dish
 category:
   - Side Dishes
+  - Gluten Free
 author: Karen Lu
 date: 2023-04-13T19:14:20.847Z
 featureImage: /uploads/3d0ed1b1-5182-451b-ac6d-7cc936eac908.jpeg
