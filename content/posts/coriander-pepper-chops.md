@@ -12,13 +12,12 @@ featureImage: /uploads/img_2641.jpeg
 *Ingredients:*
 
 * 4 pork chops, 3/4 to 1 inch thick
-* 2 cloves of gar, crushed
+* 2 cloves of garlic, crushed
 * 1 tsp coriander seed, crushed
-* 1/2 TB black pepper
+* 1/2 to 1 TB black pepper
 * 1 TB brown sugar
-
-3 TB soy sauce or teriyaki 
+* 3 TB soy sauce or teriyaki 
 
 *Directions:*
 
-Mix all ingredients together and marinate for at least 30 minutes- but ideally at least a couple hours.
+Mix all ingredients together and marinate for at least 30 minutes- but ideally at least a couple hours.  Cook on grill!
