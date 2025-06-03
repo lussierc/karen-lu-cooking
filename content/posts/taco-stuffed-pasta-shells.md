@@ -17,6 +17,7 @@ featureImage: /uploads/4036aace-5d70-4e3f-84e4-d2c26e393be6.jpeg
 * 1/2 diced onion
 * 2 envelopes taco seasoning 
 * 1 1/2 cups water
+* 8 oz. cream cheese
 * 1 10 oz. bag Jumbo pasta shells       Ingredients for each casserole:
 
   * 1 cup salsa
