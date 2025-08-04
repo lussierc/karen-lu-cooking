@@ -1,5 +1,5 @@
 ---
-title: Blueberry Puddiing
+title: Blueberry Pudding
 subtitle: Even better the 2nd day!
 category:
   - Desserts
