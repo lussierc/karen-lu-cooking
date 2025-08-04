@@ -1,5 +1,5 @@
 ---
-title: Blueberry Buckle
+title: Blueberry Puddiing
 subtitle: Even better the 2nd day!
 category:
   - Desserts
@@ -7,7 +7,7 @@ author: Karen Lu
 date: 2024-07-10T14:57:40.612Z
 featureImage: /uploads/img_2595.jpeg
 ---
-# Blueberry Buckle
+# Blueberry Pudding
 
 *Ingredients*
 
@@ -23,7 +23,7 @@ featureImage: /uploads/img_2595.jpeg
   *Topping:*
 * 1/2 cup sugar
 * 1 scant tsp cinnamon 
-* 1 tsp cornstarch 
+* 1 TB cornstarch 
 * 1/2 tsp salt
 * 1 cup boiling water
 
